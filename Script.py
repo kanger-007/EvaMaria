@@ -1,6 +1,5 @@
 class script(object):
-    START_TXT = """HELLO {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, YOU CAN USE ME TO GET FILES 😍"""
+    START_TXT = """HOW TO USE <a href=https://t.me/TBORIGINALS/52{}>{}</a>, WATCH BEFORE USING ME"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -14,7 +13,7 @@ class script(object):
 - manoharsai52@okicici
 
 <b>DEVS:</b>
-- <a href=https://t.me/ManoharTech>Team Eva Maria</a>"""
+- <a href=https://t.me/ManoharTech>Nene</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
