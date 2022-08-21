@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """HOW TO USE <a href=https://t.me/TBORIGINALS/52{}>{}</a>, WATCH BEFORE USING ME"""
+    START_TXT = """HOW TO USE <a href=https://t.me/TBORIGINALS/52</a>, WATCH BEFORE USING ME"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
