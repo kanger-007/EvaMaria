@@ -4,8 +4,8 @@ from os import path as ospath, environ
 from subprocess import run as srun
 from requests import get as rget
 
-UPSTREAM_REPO = ""#environ.get('UPSTREAM_REPO')
-UPSTREAM_BRANCH = "master" #environ.get('UPSTREAM_BRANCH')
+UPSTREAM_REPO = "https://github.com/manohartech52/EvaMaria"#environ.get('UPSTREAM_REPO')
+UPSTREAM_BRANCH = "master" 
 try:
     if len(UPSTREAM_REPO) == 0:
        raise TypeError
