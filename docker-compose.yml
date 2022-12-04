@@ -6,4 +6,4 @@ services:
     command: bash start.sh
     restart: on-failure
     ports:
-      - "19:19"
+      - "29:29"
